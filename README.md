@@ -1,4 +1,4 @@
-# <span style="color: green;">[+]</span> Gentoo + i3wm
+## <span style="color: green;">[+]</span> Gentoo + i3wm
 Esse repositorio será organizado com o tempo.
 
 ## <span style="color: green;">[+]</span> Pré-requisitos
@@ -19,4 +19,4 @@ Esse repositorio será organizado com o tempo.
 * zathura - Leitor de PDF CLI
 
 ## <span style="color: green;">[+]</span> Imagen
-
+<img width="1920" height="2160" alt="2025-11-05-151352_1920x2160_scrot" src="https://github.com/user-attachments/assets/d42093ca-432b-4494-a542-be4a1df9e75d" />
